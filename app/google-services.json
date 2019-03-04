@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "802112528344",
+    "firebase_url": "https://rangmanch2-8d490.firebaseio.com",
+    "project_id": "rangmanch2-8d490",
+    "storage_bucket": "rangmanch2-8d490.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:802112528344:android:66d40d933eb8b4b6",
+        "android_client_info": {
+          "package_name": "com.example.utkarsh.rangmanch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "802112528344-3bq8vmlldo2a3kqcg45kouukv2h0qnb3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.utkarsh.rangmanch",
+            "certificate_hash": "dcffaafc9bf98c2636e770ff751381f6fb8717e1"
+          }
+        },
+        {
+          "client_id": "802112528344-ltahmrnleg20na5gevctpouc82ncb543.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChFOR_cgN1k1wG0lBUXBMXFLYimJ9ZHoE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "802112528344-ltahmrnleg20na5gevctpouc82ncb543.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
